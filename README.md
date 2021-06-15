@@ -1,8 +1,5 @@
-# Sample GitLab Project
+**Project: QML for image processing**
 
-This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
-named and filled with lorem ipsum.
+**Mentor:** Viratkumar Kothari
 
-You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
-
-[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
+**Description:** I am heading digital archives of one of the reputed archives on Mahatma Gandhi where I have quite a huge number of digital archival images. I want to process them using computer vision using machine learning  to identify people in the images. I can do this using normal machine learning but I feel I should use Quantum Computing so that to make and process them for long future.
