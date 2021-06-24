@@ -1,6 +1,6 @@
 ## QML for Image Processing
 
-**Mentors:** Viratkumar Kothari [![virat-kothari](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viratkkothari/) Devang Gajjar [![devang-gajjar](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanggajjar/)
+**Mentors:** Viratkumar Kothari [![virat-kothari](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viratkkothari/) Devang Gajjar [![devang-gajjar](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanggajjar/)
 
 Image Classification in computer vision in machine learning is a very famous use case in classical computers. This may be binary or multi-class classification. In binary classification, images are classified in two categories, whereas in multi-class classification, images are classified in more than two categories. In a classical computer, we generally use the Central Processing Unit (CPU) or Graphical Processing Unit (GPU) to solve this problem. The GPU processes data faster compared to the CPU because GPU is better at image processing. Still, processing the data more quickly is always a problem in classical computing.
 
