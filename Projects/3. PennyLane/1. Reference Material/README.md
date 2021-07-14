@@ -4,6 +4,8 @@ Following are few links that may be helpful to understand the Quantum Machine Le
 
 1. https://pennylane.ai/qml/demonstrations.html
 2. https://pennylane.ai/qml/demos_research.html
-3. Quantum Transfer Learning using PennyLane: https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning.html
-4. https://pennylane.ai/qml/_downloads/6896adc791fdb3f843f9ddd114016efe/tutorial_quanvolution.py
-5. https://pennylane.ai/qml/demos/tutorial_quanvolution.html
+3. https://pennylane.ai/qml/_downloads/6896adc791fdb3f843f9ddd114016efe/tutorial_quanvolution.py
+4. https://pennylane.ai/qml/demos/tutorial_quanvolution.html
+
+Quantum Transfer Learning using PennyLane:
+1. https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning.html
